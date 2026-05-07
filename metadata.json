@@ -1,0 +1,6 @@
+{
+  "name": "FYP Hospital Management System",
+  "description": "A production-ready hospital management system developed for Haramaya University Computer Science final year project. Features 6 user roles: Admin, Receptionist, Doctor, Nurse, Laboratory Technician, and Pharmacist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
